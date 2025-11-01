@@ -1,2 +1,2 @@
 # Comindware-AIAssistant-Sample
-Example of Comindware AI Assistant
+Example of Comindware Platform AI Assistant
